@@ -7,6 +7,8 @@
 ![Tipo](https://img.shields.io/badge/Projeto-Acadêmico-lightgrey)
 
 ---
+##AVISO
+## O TRABALHO DO GRUPO SE ENCONTRA NO PULL REQUESTS, NO ÚLTIMO ARQUIVO ENVIADO. 
 
 ## 📌 Resumo
 Este projeto tem como objetivo analisar os processos da empresa **Plasti&Cia** e propor melhorias por meio da implementação de um sistema ERP, visando otimizar a gestão, comunicação e controle operacional.
