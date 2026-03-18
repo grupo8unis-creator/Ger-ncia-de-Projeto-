@@ -7,7 +7,7 @@
 ![Tipo](https://img.shields.io/badge/Projeto-Acadêmico-lightgrey)
 
 ---
-##AVISO
+## AVISO
 ## O TRABALHO DO GRUPO SE ENCONTRA NO PULL REQUESTS, NO ÚLTIMO ARQUIVO ENVIADO. 
 
 ## 📌 Resumo
